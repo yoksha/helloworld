@@ -1,1 +1,2 @@
 changes in brach file in first_new branch
+added a new line in second branch
