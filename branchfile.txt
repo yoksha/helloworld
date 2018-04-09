@@ -1,1 +1,3 @@
+
 changes in branch file in first_new branch
+added a new line in second branch
